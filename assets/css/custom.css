@@ -16,6 +16,13 @@
   body h3, body .h3 {
     font-size: 2rem !important;
   }
+
 }
 
 
+
+
+@media (max-width: 575px) {
+  .portfolio-item .item-media .media-container {
+    height: 30vh !important; }
+}
