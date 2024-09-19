@@ -1,1 +1,21 @@
-﻿/* Place Your Custom Styles Here */
+﻿
+
+@media (max-width: 991.98px) {
+
+.display-2 {
+	font-size: 4rem !important;
+  }
+
+	}
+  body h1, body .h1 {
+    font-size: 3rem !important;
+  }
+  body h2, body .h2 {
+    font-size: 2rem !important;
+  }
+  body h3, body .h3 {
+    font-size: 2rem !important;
+  }
+}
+
+
