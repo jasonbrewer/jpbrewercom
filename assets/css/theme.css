@@ -17535,7 +17535,7 @@ body.loaded > div.loader {
 
 @media (max-width: 575px) {
   .portfolio-item .item-media .media-container {
-    height: 70vh;
+    height: 40vh;
   }
 }
 @media (min-width: 576px) {
