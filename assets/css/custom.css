@@ -22,7 +22,8 @@
 
 
 
-@media (max-width: 575px) {
+@media (max-width: 574px) {
   .portfolio-item .item-media .media-container {
-    height: 30vh !important; }
+    height: 30vh !important; 
+	}
 }
