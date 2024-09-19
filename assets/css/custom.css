@@ -1,5 +1,7 @@
 ﻿
 
+/*Iphone display fixes*/
+
 @media (max-width: 991.98px) {
 
 .display-2 {
@@ -21,3 +23,43 @@
 
 
 
+/*Choose plan */
+
+.purchase-options-section {
+  background-color: #f8f9fa;
+}
+
+.purchase-option {
+  transition: transform 0.3s ease;
+}
+
+.purchase-option:hover {
+  transform: translateY(-10px);
+}
+
+.purchase-option h3 {
+  color: #333;
+}
+
+.purchase-option ul {
+  padding: 0;
+  list-style: none;
+}
+
+.purchase-option ul li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.purchase-option ul li i {
+  color: #28a745;
+  margin-right: 10px;
+}
+
+html, body {
+    overflow: auto !important; /* or 'scroll' to always show the scrollbar */
+}
+
+.mb-3  {
+	color: white;
+}
