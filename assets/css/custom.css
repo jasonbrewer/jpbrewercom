@@ -22,8 +22,14 @@
 
 
 
-@media (max-width: 574px) {
+@media (max-width: 575px) {
   .portfolio-item .item-media .media-container {
     height: 30vh !important; 
 	}
 }
+
+@media (max-width: 576px) {
+  .portfolio-item .item-media .media-container {
+    height: 30vh !important;	}
+}
+
